@@ -20,6 +20,119 @@ class Home extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: [
+            SingleChildScrollView(
+              scrollDirection: Axis.horizontal,
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                  children: [
+                    Text('Row',
+                      style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                      ),
+                      ),
+                    Text('Row',
+                      style:TextStyle(
+                          fontWeight: FontWeight.bold,
+                          fontSize: 30,
+                          color: Colors.black
+                      ),
+                    ),
+                    Text('Row',
+                      style:TextStyle(
+                          fontWeight: FontWeight.bold,
+                          fontSize: 30,
+                          color: Colors.black
+                      ),
+                    ),
+                    Text('Row',
+                      style:TextStyle(
+                          fontWeight: FontWeight.bold,
+                          fontSize: 30,
+                          color: Colors.black
+                      ),
+                    ),
+                    Text('Row',
+                      style:TextStyle(
+                          fontWeight: FontWeight.bold,
+                          fontSize: 30,
+                          color: Colors.black
+                      ),
+                    ),
+                    Text('Row',
+                      style:TextStyle(
+                          fontWeight: FontWeight.bold,
+                          fontSize: 30,
+                          color: Colors.black
+                      ),
+                    ),
+                    Text('Row',
+                      style:TextStyle(
+                          fontWeight: FontWeight.bold,
+                          fontSize: 30,
+                          color: Colors.black
+                      ),
+                    ),
+                    Text('Row',
+                      style:TextStyle(
+                          fontWeight: FontWeight.bold,
+                          fontSize: 30,
+                          color: Colors.black
+                      ),
+                    ),
+                    Text('Row',
+                      style:TextStyle(
+                          fontWeight: FontWeight.bold,
+                          fontSize: 30,
+                          color: Colors.black
+                      ),
+                    ),
+                    Text('Row',
+                      style:TextStyle(
+                          fontWeight: FontWeight.bold,
+                          fontSize: 30,
+                          color: Colors.black
+                      ),
+                    ),
+                    Text('Row',
+                      style:TextStyle(
+                          fontWeight: FontWeight.bold,
+                          fontSize: 30,
+                          color: Colors.black
+                      ),
+                    ),
+                    Text('Row',
+                      style:TextStyle(
+                          fontWeight: FontWeight.bold,
+                          fontSize: 30,
+                          color: Colors.black
+                      ),
+                    ),
+                    Text('Row',
+                      style:TextStyle(
+                          fontWeight: FontWeight.bold,
+                          fontSize: 30,
+                          color: Colors.black
+                      ),
+                    ),
+                    Text('Row',
+                      style:TextStyle(
+                          fontWeight: FontWeight.bold,
+                          fontSize: 30,
+                          color: Colors.black
+                      ),
+                    ),
+                    Text('Row',
+                      style:TextStyle(
+                          fontWeight: FontWeight.bold,
+                          fontSize: 30,
+                          color: Colors.black
+                      ),
+                    ),
+                  ],
+              ),
+            ),
             Text('This is His app',
             style: TextStyle(
               fontSize: 30,
@@ -27,6 +140,120 @@ class Home extends StatelessWidget {
               color: Colors.purple,
               wordSpacing: 5
             ),
+            ),
+            SingleChildScrollView(
+              scrollDirection: Axis.horizontal,
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                children: [
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                ],
+
+              ),
             ),
             Text('This is Her app',
               style: TextStyle(
@@ -36,12 +263,253 @@ class Home extends StatelessWidget {
                   wordSpacing: 5
               ),
             ),
+            SingleChildScrollView(
+              scrollDirection: Axis.horizontal,
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                children: [
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                  Text('Row',
+                    style:TextStyle(
+                        fontWeight: FontWeight.bold,
+                        fontSize: 30,
+                        color: Colors.black
+                    ),
+                  ),
+                ],
+
+              ),
+            ),
             Text('This is Rayjan app',
               style: TextStyle(
                   fontSize: 30,
                   fontWeight: FontWeight.w500,
                   color: Colors.purple,
                   wordSpacing: 5
+              ),
+            ),
+            SingleChildScrollView(
+              scrollDirection: Axis.horizontal,
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                children: [
+                  Text('Row',
+                  style: TextStyle(
+                    fontSize: 30,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.red
+                  ),
+                  ),
+                  Text('Row',
+                    style: TextStyle(
+                      fontSize: 50,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.red,
+                    ),
+                  ),
+                  Text('Row',
+                    style: TextStyle(
+                        fontSize: 30,
+                        fontWeight: FontWeight.bold,
+                        color: Colors.red
+                    ),
+                  ),
+                  Text('Row',
+                    style: TextStyle(
+                      fontSize: 50,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.red,
+                    ),
+                  ),
+                  Text('Row',
+                    style: TextStyle(
+                        fontSize: 30,
+                        fontWeight: FontWeight.bold,
+                        color: Colors.red
+                    ),
+                  ),
+                  Text('Row',
+                    style: TextStyle(
+                      fontSize: 50,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.red,
+                    ),
+                  ),
+                  Text('Row',
+                    style: TextStyle(
+                        fontSize: 30,
+                        fontWeight: FontWeight.bold,
+                        color: Colors.red
+                    ),
+                  ),
+                  Text('Row',
+                    style: TextStyle(
+                      fontSize: 50,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.red,
+                    ),
+                  ),
+                  Text('Row',
+                    style: TextStyle(
+                        fontSize: 30,
+                        fontWeight: FontWeight.bold,
+                        color: Colors.red
+                    ),
+                  ),
+                  Text('Row',
+                    style: TextStyle(
+                      fontSize: 50,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.red,
+                    ),
+                  ),
+                  Text('Row',
+                    style: TextStyle(
+                      fontSize: 50,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.red,
+                    ),
+                  ),
+                  Text('Row',
+                    style: TextStyle(
+                        fontSize: 30,
+                        fontWeight: FontWeight.bold,
+                        color: Colors.red
+                    ),
+                  ),
+                  Text('Row',
+                    style: TextStyle(
+                      fontSize: 50,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.red,
+                    ),
+                  ),
+                  Text('Row',
+                    style: TextStyle(
+                        fontSize: 30,
+                        fontWeight: FontWeight.bold,
+                        color: Colors.red
+                    ),
+                  ),
+                  Text('Row',
+                    style: TextStyle(
+                      fontSize: 50,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.red,
+                    ),
+                  ),
+                  Text('Row',
+                    style: TextStyle(
+                        fontSize: 30,
+                        fontWeight: FontWeight.bold,
+                        color: Colors.red
+                    ),
+                  ),
+                  Text('Row',
+                    style: TextStyle(
+                      fontSize: 50,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.red,
+                    ),
+                  ),
+                ],
               ),
             ),
             Text('This is Sadat app',
