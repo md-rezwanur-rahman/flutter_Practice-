@@ -460,55 +460,7 @@ class Home extends StatelessWidget {
                       color: Colors.red,
                     ),
                   ),
-                  Text('Row',
-                    style: TextStyle(
-                      fontSize: 50,
-                      fontWeight: FontWeight.bold,
-                      color: Colors.red,
-                    ),
-                  ),
-                  Text('Row',
-                    style: TextStyle(
-                        fontSize: 30,
-                        fontWeight: FontWeight.bold,
-                        color: Colors.red
-                    ),
-                  ),
-                  Text('Row',
-                    style: TextStyle(
-                      fontSize: 50,
-                      fontWeight: FontWeight.bold,
-                      color: Colors.red,
-                    ),
-                  ),
-                  Text('Row',
-                    style: TextStyle(
-                        fontSize: 30,
-                        fontWeight: FontWeight.bold,
-                        color: Colors.red
-                    ),
-                  ),
-                  Text('Row',
-                    style: TextStyle(
-                      fontSize: 50,
-                      fontWeight: FontWeight.bold,
-                      color: Colors.red,
-                    ),
-                  ),
-                  Text('Row',
-                    style: TextStyle(
-                        fontSize: 30,
-                        fontWeight: FontWeight.bold,
-                        color: Colors.red
-                    ),
-                  ),
-                  Text('Row',
-                    style: TextStyle(
-                      fontSize: 50,
-                      fontWeight: FontWeight.bold,
-                      color: Colors.red,
-                    ),
-                  ),
+
                 ],
               ),
             ),
