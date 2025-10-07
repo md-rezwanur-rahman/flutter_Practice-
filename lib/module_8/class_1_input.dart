@@ -16,9 +16,13 @@ class FluterInput extends StatelessWidget {
       body:Padding(
         padding: const EdgeInsets.all(10.0),
         child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
+          mainAxisAlignment: MainAxisAlignment.start,
+
           children: [
-            // Image.network(src);
+            Image.network('https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_%282015%29.svg/2560px-Facebook_New_Logo_%282015%29.svg.png'),
+            SizedBox(height: 10,),
+            Image.asset('assets/yt.png'),
+            SizedBox(height: 10,),
             TextField(
               controller: phoneControl,
               keyboardType: TextInputType.phone,
